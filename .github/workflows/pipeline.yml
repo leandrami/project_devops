@@ -1,4 +1,4 @@
-name: Aula CI Pipeline
+name: CI Pipeline
 
 on:
   push:
